@@ -20,3 +20,6 @@ To get a local copy up and running follow these simple example steps.
 
 - When the program is running go to your browser.
 - put: localhost:3000/
+
+## Tests
+- To run the tests just type the following command `bundle exe rspec`
