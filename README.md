@@ -23,3 +23,19 @@ To get a local copy up and running follow these simple example steps.
 
 ## Tests
 - To run the tests just type the following command `bundle exe rspec`
+
+## Author
+
+👤 *Gabriel Rendon*
+
+- GitHub: [@gabrielyea](https://github.com/gabrielyea)
+- Linkedin [Gabriel Rendon](https://www.linkedin.com/in/gabriel-rendon-paredes/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
